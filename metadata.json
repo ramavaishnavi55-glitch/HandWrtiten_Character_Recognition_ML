@@ -1,0 +1,6 @@
+{
+  "name": "Handwritten Character Recognition",
+  "description": "A full-stack AI-powered web application that allows users to upload or draw handwritten English alphabet characters and receive real-time predictions with confidence scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
